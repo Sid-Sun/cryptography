@@ -14,7 +14,10 @@ This repository contains all the various cryptographic components i've come acro
 
 All the information in this repo is licensed under unlicense and is therefore in the public domain - the described components and their IP are subject to their licensing
 
-The structure of this repo is not well-defined as of now as it is contantly evolving, however; it will be my best effort to keep it as intuitive as possible.
+#### Structure
+The structure of this repo is not well-defined as of now as it is contantly evolving, however; it will be my best effort to keep it as intuitive as possible. 
+
+If you happen to link the documentation in this repo somewhere, linking to files at a particular commit / revision history would prove to be more reliable.
 
 ### Contributing to this repo:
 - Document Contributions are most welcome, however; please - do _not_ directly copy information from sources from which you do not have permission to republish or disclose under unlicense; or if you are not willing to publish the information under unlicense
